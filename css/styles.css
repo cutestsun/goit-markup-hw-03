@@ -56,6 +56,9 @@ header {
   text-transform: uppercase;
   color: var(--main-text-color);
   text-decoration: none;
+
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .logo .accent {
