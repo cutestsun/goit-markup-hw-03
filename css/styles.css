@@ -253,6 +253,7 @@ header .container {
 .our-team img,
 .portfolio-list img {
   display: block;
+  max-width: 100%;
 }
 
 .what-are-we-doing .item:not(:last-child) {
